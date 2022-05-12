@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "alposcript": "https://github.com/tpisto/alposcript.git"
+    "@tpisto/alposcript": "^0.0.1"
   }
 }
