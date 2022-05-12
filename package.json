@@ -1,6 +1,6 @@
 {
   "name": "@tpisto/babel-plugin-alposcript",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@tpisto/alposcript": "^0.0.1"
+    "@tpisto/alposcript": "^0.1.0"
   }
 }
