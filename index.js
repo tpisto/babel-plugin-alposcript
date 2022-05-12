@@ -1,4 +1,4 @@
-const alpoScriptParser = require("alposcript");
+const alpoScriptParser = require("@tpisto/alposcript");
 const path = require("path");
 
 module.exports = function (args) {
